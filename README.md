@@ -1,32 +1,41 @@
-Mining-Calculator
+# Mining-Calculator
+
 Mining-Calculator is a C# application designed to help users calculate the profitability of mining using various devices such as GPUs (graphics cards), CPUs (processors), and HDDs (hard drives). The application allows users to add devices to a virtual cart, calculates potential earnings and expenses, and provides detailed results on profitability over different time periods (per minute, day, month, and year).
 
-The project was developed using Visual Studio.
+The project was developed using **Visual Studio**.
 
-Features
-Device Management
+---
 
-Add various mining devices to the cart (GPUs, CPUs, HDDs).
-Modify or remove devices from the cart.
-Profitability Calculation
+## Features
 
-Calculate potential earnings based on device specifications and energy consumption.
-Includes income projections per minute, day, month, and year.
-Shows expenses such as electricity costs.
-Profit/Loss Analysis
+- **Device Management**  
+  - Add various mining devices to the cart (GPUs, CPUs, HDDs).  
+  - Modify or remove devices from the cart.  
 
-Displays whether the setup will be profitable or result in a loss.
-Provides a clear breakdown of earnings vs. expenses.
-Requirements
-Operating System: Windows
-Framework: .NET Framework (minimum version 4.7.2)
-IDE: Visual Studio (recommended for building and debugging)
-Installation
-Clone this repository:
+- **Profitability Calculation**  
+  - Calculate potential earnings based on device specifications and energy consumption.  
+  - Includes income projections per minute, day, month, and year.  
+  - Shows expenses such as electricity costs.  
 
-bash
-Копировать код
-git clone https://github.com/yourusername/Mining-Calculator.git
+- **Profit/Loss Analysis**  
+  - Displays whether the setup will be profitable or result in a loss.  
+  - Provides a clear breakdown of earnings vs. expenses.
+
+---
+
+## Requirements
+
+- **Operating System**: Windows  
+- **Framework**: .NET Framework (minimum version 4.7.2)  
+- **IDE**: Visual Studio (recommended for building and debugging)
+
+---
+
+## Installation
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/Mining-Calculator.git
 Open the project in Visual Studio.
 
 Build the solution using Ctrl + Shift + B.
