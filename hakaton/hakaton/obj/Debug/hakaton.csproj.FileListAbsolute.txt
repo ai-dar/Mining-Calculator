@@ -1,0 +1,40 @@
+C:\Users\User\source\repos\hakaton\hakaton\bin\Debug\hakaton.exe.config
+C:\Users\User\source\repos\hakaton\hakaton\bin\Debug\hakaton.exe
+C:\Users\User\source\repos\hakaton\hakaton\bin\Debug\hakaton.pdb
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.csprojAssemblyReference.cache
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.Form1.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.Form2.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.Properties.Resources.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.exe
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.pdb
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.Form3.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.Form4.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.Form5.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.Calculate.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.ProccesorDBcs.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.RAMDB.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.VideoCartDB.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.HDDDB.resources
+C:\Users\User\source\repos\hakaton\hakaton\obj\Debug\hakaton.PowerUnitDB.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\bin\Debug\hakaton.exe.config
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\bin\Debug\hakaton.exe
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\bin\Debug\hakaton.pdb
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.Calculate.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.Form3.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.Form4.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.Form5.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.HDDDB.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.PowerUnitDB.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.ProccesorDBcs.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.RAMDB.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.VideoCartDB.resources
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.exe
+C:\Users\User\OneDrive\Рабочий стол\hakaton\hakaton\obj\Debug\hakaton.pdb
