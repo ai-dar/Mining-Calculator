@@ -34,7 +34,7 @@ The project was developed using **Visual Studio**.
 ## Installation
 
 1. Clone this repository:  
-   ```bash
+    ```bash
    git clone https://github.com/yourusername/Mining-Calculator.git
 Open the project in Visual Studio.
 
@@ -42,7 +42,7 @@ Build the solution using Ctrl + Shift + B.
 
 Run the application by pressing F5 or using the Start button.
 
-Usage
+## Usage
 Start the application.
 
 Add your mining devices to the cart, specifying details such as:
@@ -58,32 +58,33 @@ Total expenses, including electricity costs.
 Profitability analysis (profit or loss).
 Adjust device configurations as needed to optimize profitability.
 
-Screenshots
+## Screenshots
 
 Main interface showing the cart and calculation results.
 
 
 Detailed profit/loss analysis.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have ideas for improvements or find any issues, feel free to:
 
 Fork the repository.
 Create a new branch:
-bash
-Копировать код
-git checkout -b feature/new-feature
+    ```bash
+    
+    git checkout -b feature/new-feature
+
 Commit your changes:
-bash
-Копировать код
-git commit -m "Add new feature"
+    ```bash
+
+    git commit -m "Add new feature"
 Push to the branch:
-bash
-Копировать код
-git push origin feature/new-feature
+    ```bash
+
+    git push origin feature/new-feature
 Submit a pull request.
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Author
+## Author
 This application was developed by Aidar Sabyrgali.
